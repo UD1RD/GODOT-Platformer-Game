@@ -1,5 +1,5 @@
 # GODOT-Platformer-Game
 It is a game that i made in godot. In this game there are three levels and you have to climb to the top to clear each level.
-I am only uploading the screenshots, the executable game file and the link to the whole project here as it is way to big and would be very tedious to upload every single thing from the project here. 
+I am only uploading the screenshots,gameplay videos and the link to the whole project here as it is way to big and would be very tedious to upload every single thing from the project here. 
 
 Drive link: https://drive.google.com/drive/folders/1dErRKGDwwfbd-BDaCA1DKtC4o6fLR9Gf?usp=sharing
